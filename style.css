@@ -61,7 +61,7 @@ ul {
   color: var(--secondary--color);
 }
 
-.section {
+section {
   position: relative;
   padding: 0 20px;
 }
